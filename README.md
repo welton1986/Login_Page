@@ -14,6 +14,6 @@ O Projeto foi desenvolvido utilizando as seguintes tecnologias.
 - Css
 - JavaScript
 
-- [Clique para acessar a pagina](  https://welton1986.github.io/F1_Page/)
+- [Clique para acessar a página](  https://welton1986.github.io/Login_Page/)
 
  
