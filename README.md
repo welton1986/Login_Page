@@ -3,7 +3,8 @@
 
 
 
-Página criada para colocar em prática os conceitos de Html e Css , se trata de uma página com informações da Fórmula 1 e seus pilotos , ainda está em desenvolvimento. <br/> <br/>
+Essa foi praticamente uma das primeiras paginas que criei , resolvi subir ela aqui para o repositório para ver a minha evolução com estudos ,  acredito que para tudo tem um começo 
+e enxergar a sua evolução faz parte do crescimento.
 
 ## 💻 Tecnologias utilizadas
 
