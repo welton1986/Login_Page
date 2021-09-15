@@ -1,0 +1,72 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+    padding: 0px;
+    background-image: url(image/cerebro_tec.jpg);
+    
+}
+
+section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 280px;
+    width: 400px;
+    background:rgba(248,248,255,0.5);
+    border-radius: 20px;
+    padding: 15px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.425);
+    
+}
+
+h2 {
+    margin: 0;
+    margin-bottom: 5px;
+}
+
+section form {
+    height: 200px;
+    width: 300px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    background-color:#87CEFA;;
+    
+    
+}
+
+label {
+    margin-bottom: 5px;
+}
+
+section input {
+    margin-bottom: 20px;
+    outline: 0;
+
+}
+
+p {
+    margin: 0;
+}
+
+#log input {
+    cursor:pointer;
+}
+
+
+
+section form p input:hover{
+    background:#87CEFA;
+
+}
